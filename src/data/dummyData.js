@@ -1,0 +1,121 @@
+export const userGrowthData = [
+  { date: "Sep 1", users: 4200 },
+  { date: "Sep 5", users: 4650 },
+  { date: "Sep 10", users: 5100 },
+  { date: "Sep 15", users: 5480 },
+  { date: "Sep 20", users: 6120 },
+  { date: "Sep 25", users: 6950 },
+  { date: "Sep 30", users: 8420 },
+];
+
+export const regionData = [
+  { region: "North America", users: 3200 },
+  { region: "Europe", users: 2400 },
+  { region: "Asia", users: 1800 },
+  { region: "Middle East", users: 1020 },
+];
+
+export const deviceData = [
+  { name: "Desktop", value: 48 },
+  { name: "Mobile", value: 38 },
+  { name: "Tablet", value: 14 },
+];
+
+export const usersData = [
+  {
+    id: 1,
+    name: "Ali Khan",
+    email: "ali@example.com",
+    signupDate: "2026-09-01",
+    country: "Pakistan",
+    status: "Active",
+  },
+  {
+    id: 2,
+    name: "Sarah Johnson",
+    email: "sarah@example.com",
+    signupDate: "2026-08-28",
+    country: "United States",
+    status: "Active",
+  },
+  {
+    id: 3,
+    name: "Ahmed Raza",
+    email: "ahmed@example.com",
+    signupDate: "2026-08-25",
+    country: "Pakistan",
+    status: "Inactive",
+  },
+  {
+    id: 4,
+    name: "Emma Wilson",
+    email: "emma@example.com",
+    signupDate: "2026-08-22",
+    country: "United Kingdom",
+    status: "Active",
+  },
+  {
+    id: 5,
+    name: "Daniel Smith",
+    email: "daniel@example.com",
+    signupDate: "2026-08-19",
+    country: "Canada",
+    status: "Active",
+  },
+  {
+    id: 6,
+    name: "Hassan Ali",
+    email: "hassan@example.com",
+    signupDate: "2026-08-16",
+    country: "Pakistan",
+    status: "Inactive",
+  },
+  {
+    id: 7,
+    name: "Olivia Brown",
+    email: "olivia@example.com",
+    signupDate: "2026-08-14",
+    country: "Australia",
+    status: "Active",
+  },
+  {
+    id: 8,
+    name: "Michael Davis",
+    email: "michael@example.com",
+    signupDate: "2026-08-11",
+    country: "Germany",
+    status: "Active",
+  },
+  {
+    id: 9,
+    name: "Fatima Noor",
+    email: "fatima@example.com",
+    signupDate: "2026-08-08",
+    country: "Pakistan",
+    status: "Active",
+  },
+  {
+    id: 10,
+    name: "James Miller",
+    email: "james@example.com",
+    signupDate: "2026-08-05",
+    country: "United States",
+    status: "Inactive",
+  },
+  {
+    id: 11,
+    name: "Ayesha Malik",
+    email: "ayesha@example.com",
+    signupDate: "2026-08-02",
+    country: "Pakistan",
+    status: "Active",
+  },
+  {
+    id: 12,
+    name: "Sophia Taylor",
+    email: "sophia@example.com",
+    signupDate: "2026-07-30",
+    country: "United Kingdom",
+    status: "Active",
+  },
+];
